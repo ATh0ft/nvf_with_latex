@@ -19,6 +19,7 @@ in {
     ./html.nix
     ./haskell.nix
     ./java.nix
+    ./latex.nix
     ./lua.nix
     ./markdown.nix
     ./nim.nix

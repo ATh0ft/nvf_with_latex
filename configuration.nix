@@ -61,6 +61,7 @@ isMaximal: {
       zig.enable = isMaximal;
       python.enable = isMaximal;
       typst.enable = isMaximal;
+      latex.enable = isMaximal;
       rust = {
         enable = isMaximal;
         crates.enable = isMaximal;
